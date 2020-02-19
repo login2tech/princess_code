@@ -1,0 +1,21 @@
+{
+  "name": "OPPWAMobile",
+  "version": "1.8.0",
+  "summary": "unoffical SDK",
+  "homepage": "https://saleh.im",
+  "authors": "SalehAlDhobaie",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "license": "MIT",
+  "source": {
+    "git": "https://github.com/SalehAlDhobaie/Hyperpay-iOS.git",
+    "tag": "master"
+  },
+  "requires_arc": true,
+  "vendored_frameworks": "OPPWAMobile.framework",
+  "public_header_files": "OPPWAMobile.framework/Versions/1.8.0/Headers/*.h",
+  "resource_bundles": {
+    "OPPWAMobile-Resources": "./*"
+  }
+}
