@@ -1,0 +1,428 @@
+[
+  {
+    en: 'Riyadh',
+    key: 'Riyadh',
+    label : "Riyadh / الرياض",
+    ar: 'الرياض'
+  },
+  {
+    en: 'Diriyah',
+    key: 'Diriyah',
+    label : "Diriyah / الدرعية",
+    ar: 'الدرعية'
+  },
+  {
+    en: 'Kharj',
+    key: 'Kharj',
+    label : "Kharj / الخرج",
+    ar: 'الخرج'
+  },
+  {
+    en: 'Duwadmi',
+    key: 'Duwadmi',
+    label : "Duwadmi / الدوادمي",
+    ar: 'الدوادمي'
+  },
+  {
+    en: "Majma'a",
+    key: "Majma'a",
+    label : "Majma'a / المجمعة",
+    ar: 'المجمعة'
+  },
+  {
+    en: "Qwaye'a",
+    key: "Qwaye'a",
+    label : "Qwaye'a / القويعية",
+    ar: 'القويعية'
+  },
+  {
+    en: 'Al-Aflaj',
+    key: 'Al-Aflaj',
+    label : "Al-Aflaj / الأفلاج",
+    ar: 'الأفلاج'
+  },
+  {
+    en: 'Wadi Aldawasir',
+    key: 'Wadi Aldawasir',
+    label : "Wadi Aldawasir / وادي الدواسر",
+    ar: 'وادي الدواسر'
+  },
+  {
+    en: 'Alzilfi',
+    key: 'Alzilfi',
+    label : "Alzilfi / الزلفي",
+    ar: 'الزلفي'
+  },
+  {
+    en: 'Shaqra',
+    key: 'Shaqra',
+    label : "Shaqra / شقراء",
+    ar: 'شقراء'
+  },
+  {
+    en: 'Hutat Bani Tamim',
+    key: 'Hutat Bani Tamim',
+    label : "Hutat Bani Tamim / حوطة بني تميم",
+    ar: 'حوطة بني تميم'
+  },
+  {
+    en: 'Afef',
+    key: 'Afef',
+    label : "Afef / عفيف",
+    ar: 'عفيف'
+  },
+  {
+    en: 'Alghat',
+    key: 'Alghat',
+    label : "Alghat / الغاط",
+    ar: 'الغاط'
+  },
+  {
+    en: 'Mekka',
+    key: 'Mekka',
+    label : "Mekka / مكة المكرمة",
+    ar: 'مكة المكرمة'
+  },
+  {
+    en: 'Jeddah',
+    key: 'Jeddah',
+    label : "Jeddah / جدة",
+    ar: 'جدة'
+  },
+  {
+    en: 'Taif',
+    key: 'Taif',
+    label : "Taif / الطائف",
+    ar: 'الطائف'
+  },
+  {
+    en: 'Qunfutha',
+    key: 'Qunfutha',
+    label : "Qunfutha / القنفذة",
+    ar: 'القنفذة'
+  },
+  {
+    en: 'Laith',
+    key: 'Laith',
+    label : "Laith / الليث",
+    ar: 'الليث'
+  },
+  {
+    en: 'Rabigh',
+    key: 'Rabigh',
+    label : "Rabigh / رابغ",
+    ar: 'رابغ'
+  },
+  {
+    en: 'Khulais',
+    key: 'Khulais',
+    label : "Khulais / خليص",
+    ar: 'خليص'
+  },
+  {
+    en: 'Khurma',
+    key: 'Khurma',
+    label : "Khurma / الخرمة",
+    ar: 'الخرمة'
+  },
+  {
+    en: 'Ranya',
+    key: 'Ranya',
+    label : "Ranya / رنية",
+    ar: 'رنية'
+  },
+  {
+    en: 'Turubah',
+    key: 'Turubah',
+    label : "Turubah / تربة",
+    ar: 'تربة'
+  },
+  {
+    en: 'Almadinah Almunawarah',
+    key: 'Almadinah Almunawarah',
+    label : "Almadinah Almunawarah / المدينة المنورة",
+    ar: 'المدينة المنورة'
+  },
+  {
+    en: 'Yunbu',
+    key: 'Yunbu',
+    label : "Yunbu / ينبع",
+    ar: 'ينبع'
+  },
+  {
+    en: 'AlOla',
+    key: 'AlOla',
+    label : "AlOla / العلا",
+    ar: 'العلا'
+  },
+  {
+    en: 'Mahd Althahab',
+    key: 'Mahd Althahab',
+    label : "Mahd Althahab / مهد الذهب",
+    ar: 'مهد الذهب'
+  },
+  {
+    en: 'Al-Hunakeya',
+    key: 'Al-Hunakeya',
+    label : "Al-Hunakeya / الحناكية",
+    ar: 'الحناكية'
+  },
+  {
+    en: 'Buraydah',
+    key: 'Buraydah',
+    label : "Buraydah / بريدة",
+    ar: 'بريدة'
+  },
+  {
+    en: 'Onaiza',
+    key: 'Onaiza',
+    label : "Onaiza / عنيزة",
+    ar: 'عنيزة'
+  },
+  {
+    en: 'Alras',
+    key: 'Alras',
+    label : "Alras / الرس",
+    ar: 'الرس'
+  },
+  {
+    en: 'AlMuthanab',
+    key: 'AlMuthanab',
+    label : "AlMuthanab / المذنب",
+    ar: 'المذنب'
+  },
+  {
+    en: 'Albekerya',
+    key: 'Albekerya',
+    label : "Albekerya / البكيرية",
+    ar: 'البكيرية'
+  },
+  {
+    en: "Albaday'e",
+    key: "Albaday'e",
+    label : "Albaday'e / البدائع",
+    ar: 'البدائع'
+  },
+  {
+    en: 'Dammam',
+    key: 'Dammam',
+    label : "Dammam / الدمام",
+    ar: 'الدمام'
+  },
+  {
+    en: 'Al-Ahsa',
+    key: 'Al-Ahsa',
+    label : "Al-Ahsa / الأحساء",
+    ar: 'الأحساء'
+  },
+  {
+    en: 'Hafr Albatin',
+    key: 'Hafr Albatin',
+    label : "Hafr Albatin / حفر الباطن",
+    ar: 'حفر الباطن'
+  },
+  {
+    en: 'Jubail',
+    key: 'Jubail',
+    label : "Jubail / الجبيل",
+    ar: 'الجبيل'
+  },
+  {
+    en: 'AlQatif',
+    key: 'AlQatif',
+    label : "AlQatif / القطيف",
+    ar: 'القطيف'
+  },
+  {
+    en: 'Khubar',
+    key: 'Khubar',
+    label : "Khubar / الخبر",
+    ar: 'الخبر'
+  },
+  {
+    en: 'Alkhafji',
+    key: 'Alkhafji',
+    label : "Alkhafji / الخفجي",
+    ar: 'الخفجي'
+  },
+  {
+    en: 'Abha',
+    key: 'Abha',
+    label : "Abha / أبها",
+    ar: 'أبها'
+  },
+  {
+    en: 'Khamis Mushait',
+    key: 'Khamis Mushait',
+    label : "Khamis Mushait / خميس مشيط",
+    ar: 'خميس مشيط'
+  },
+  {
+    en: 'Bisha',
+    key: 'Bisha',
+    label : "Bisha / بيشة",
+    ar: 'بيشة'
+  },
+  {
+    en: 'Alnumas',
+    key: 'Alnumas',
+    label : "Alnumas / النماص",
+    ar: 'النماص'
+  },
+  {
+    en: 'Muhayel Aseer',
+    key: 'Muhayel Aseer',
+    label : "Muhayel Aseer / محايل عسير",
+    ar: 'محايل عسير'
+  },
+  {
+    en: 'Dhahran Aljanob',
+    key: 'Dhahran Aljanob',
+    label : "Dhahran Aljanob / ظهران الجنوب",
+    ar: 'ظهران الجنوب'
+  },
+  {
+    en: 'Tathleeth',
+    key: 'Tathleeth',
+    label : "Tathleeth / تثليث",
+    ar: 'تثليث'
+  },
+  {
+    en: 'Tabuk',
+    key: 'Tabuk',
+    label : "Tabuk / تبوك",
+    ar: 'تبوك'
+  },
+  {
+    en: 'Alwajh',
+    key: 'Alwajh',
+    label : "Alwajh / الوجه",
+    ar: 'الوجه'
+  },
+  {
+    en: 'Dheba',
+    key: 'Dheba',
+    label : "Dheba / ضبا",
+    ar: 'ضبا'
+  },
+  {
+    en: 'Tayma',
+    key: 'Tayma',
+    label : "Tayma / تيماء",
+    ar: 'تيماء'
+  },
+  {
+    en: 'Amlaj',
+    key: 'Amlaj',
+    label : "Amlaj / أملج",
+    ar: 'أملج'
+  },
+  {
+    en: 'Hail',
+    key: 'Hail',
+    label : "Hail / حائل",
+    ar: 'حائل'
+  },
+  {
+    en: "Baqa'a",
+    key: "Baqa'a",
+    label : "Baqa'a / بقعاء",
+    ar: 'بقعاء'
+  },
+  {
+    en: 'Arar',
+    key: 'Arar',
+    label : "Arar / عرعر",
+    ar: 'عرعر'
+  },
+  {
+    en: 'Rafha',
+    key: 'Rafha',
+    label : "Rafha / رفحاء",
+    ar: 'رفحاء'
+  },
+  {
+    en: 'Turaif',
+    key: 'Turaif',
+    label : "Turaif / طريف",
+    ar: 'طريف'
+  },
+  {
+    en: 'Jazan',
+    key: 'Jazan',
+    label : "Jazan / جازان",
+    ar: 'جازان'
+  },
+  {
+    en: 'Sabia',
+    key: 'Sabia',
+    label : "Sabia / صبيا",
+    ar: 'صبيا'
+  },
+  {
+    en: 'Abu Areesh',
+    key: 'Abu Areesh',
+    label : "Abu Areesh / أبو عريش",
+    ar: 'أبو عريش'
+  },
+  {
+    en: 'Samta',
+    key: 'Samta',
+    label : "Samta / صامطة",
+    ar: 'صامطة'
+  },
+  {
+    en: 'Bish',
+    key: 'Bish',
+    label : "Bish / بيش",
+    ar: 'بيش'
+  },
+  {
+    en: 'Baha',
+    key: 'Baha',
+    label : "Baha / الباحة",
+    ar: 'الباحة'
+  },
+  {
+    en: 'Baljurashi',
+    key: 'Baljurashi',
+    label : "Baljurashi / بلجرشي",
+    ar: 'بلجرشي'
+  },
+  {
+    en: 'AlMandag',
+    key: 'AlMandag',
+    label : "AlMandag / المندق",
+    ar: 'المندق'
+  },
+  {
+    en: 'Al Mikhwah',
+    key: 'Al Mikhwah',
+    label : "Al Mikhwah / المخواة",
+    ar: 'المخواة'
+  },
+  {
+    en: 'Galwah',
+    key: 'Galwah',
+    label : "Galwah / قلوة",
+    ar: 'قلوة'
+  },
+  {
+    en: 'Skaka',
+    key: 'Skaka',
+    label : "Skaka / سكاكا",
+    ar: 'سكاكا'
+  },
+  {
+    en: 'Al Qurayat',
+    key: 'Al Qurayat',
+    label : "Al Qurayat / القريات",
+    ar: 'القريات'
+  },
+  {
+    en: 'Dawmat Aljandal',
+    key: 'Dawmat Aljandal',
+    label : "Dawmat Aljandal / دومة الجندل",
+    ar: 'دومة الجندل'
+  }
+];

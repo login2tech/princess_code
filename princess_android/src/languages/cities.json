@@ -1,0 +1,286 @@
+[
+  {
+    en: 'Riyadh',
+    ar: 'الرياض'
+  },
+  {
+    en: 'Diriyah',
+    ar: 'الدرعية'
+  },
+  {
+    en: 'Kharj',
+    ar: 'الخرج'
+  },
+  {
+    en: 'Duwadmi',
+    ar: 'الدوادمي'
+  },
+  {
+    en: "Majma'a",
+    ar: 'المجمعة'
+  },
+  {
+    en: "Qwaye'a",
+    ar: 'القويعية'
+  },
+  {
+    en: 'Al-Aflaj',
+    ar: 'الأفلاج'
+  },
+  {
+    en: 'Wadi Aldawasir',
+    ar: 'وادي الدواسر'
+  },
+  {
+    en: 'Alzilfi',
+    ar: 'الزلفي'
+  },
+  {
+    en: 'Shaqra',
+    ar: 'شقراء'
+  },
+  {
+    en: 'Hutat Bani Tamim',
+    ar: 'حوطة بني تميم'
+  },
+  {
+    en: 'Afef',
+    ar: 'عفيف'
+  },
+  {
+    en: 'Alghat',
+    ar: 'الغاط'
+  },
+  {
+    en: 'Mekka',
+    ar: 'مكة المكرمة'
+  },
+  {
+    en: 'Jeddah',
+    ar: 'جدة'
+  },
+  {
+    en: 'Taif',
+    ar: 'الطائف'
+  },
+  {
+    en: 'Qunfutha',
+    ar: 'القنفذة'
+  },
+  {
+    en: 'Laith',
+    ar: 'الليث'
+  },
+  {
+    en: 'Rabigh',
+    ar: 'رابغ'
+  },
+  {
+    en: 'Khulais',
+    ar: 'خليص'
+  },
+  {
+    en: 'Khurma',
+    ar: 'الخرمة'
+  },
+  {
+    en: 'Ranya',
+    ar: 'رنية'
+  },
+  {
+    en: 'Turubah',
+    ar: 'تربة'
+  },
+  {
+    en: 'Almadinah Almunawarah',
+    ar: 'المدينة المنورة'
+  },
+  {
+    en: 'Yunbu',
+    ar: 'ينبع'
+  },
+  {
+    en: 'AlOla',
+    ar: 'العلا'
+  },
+  {
+    en: 'Mahd Althahab',
+    ar: 'مهد الذهب'
+  },
+  {
+    en: 'Al-Hunakeya',
+    ar: 'الحناكية'
+  },
+  {
+    en: 'Buraydah',
+    ar: 'بريدة'
+  },
+  {
+    en: 'Onaiza',
+    ar: 'عنيزة'
+  },
+  {
+    en: 'Alras',
+    ar: 'الرس'
+  },
+  {
+    en: 'AlMuthanab',
+    ar: 'المذنب'
+  },
+  {
+    en: 'Albekerya',
+    ar: 'البكيرية'
+  },
+  {
+    en: "Albaday'e",
+    ar: 'البدائع'
+  },
+  {
+    en: 'Dammam',
+    ar: 'الدمام'
+  },
+  {
+    en: 'Al-Ahsa',
+    ar: 'الأحساء'
+  },
+  {
+    en: 'Hafr Albatin',
+    ar: 'حفر الباطن'
+  },
+  {
+    en: 'Jubail',
+    ar: 'الجبيل'
+  },
+  {
+    en: 'AlQatif',
+    ar: 'القطيف'
+  },
+  {
+    en: 'Khubar',
+    ar: 'الخبر'
+  },
+  {
+    en: 'Alkhafji',
+    ar: 'الخفجي'
+  },
+  {
+    en: 'Abha',
+    ar: 'أبها'
+  },
+  {
+    en: 'Khamis Mushait',
+    ar: 'خميس مشيط'
+  },
+  {
+    en: 'Bisha',
+    ar: 'بيشة'
+  },
+  {
+    en: 'Alnumas',
+    ar: 'النماص'
+  },
+  {
+    en: 'Muhayel Aseer',
+    ar: 'محايل عسير'
+  },
+  {
+    en: 'Dhahran Aljanob',
+    ar: 'ظهران الجنوب'
+  },
+  {
+    en: 'Tathleeth',
+    ar: 'تثليث'
+  },
+  {
+    en: 'Tabuk',
+    ar: 'تبوك'
+  },
+  {
+    en: 'Alwajh',
+    ar: 'الوجه'
+  },
+  {
+    en: 'Dheba',
+    ar: 'ضبا'
+  },
+  {
+    en: 'Tayma',
+    ar: 'تيماء'
+  },
+  {
+    en: 'Amlaj',
+    ar: 'أملج'
+  },
+  {
+    en: 'Hail',
+    ar: 'حائل'
+  },
+  {
+    en: "Baqa'a",
+    ar: 'بقعاء'
+  },
+  {
+    en: 'Arar',
+    ar: 'عرعر'
+  },
+  {
+    en: 'Rafha',
+    ar: 'رفحاء'
+  },
+  {
+    en: 'Turaif',
+    ar: 'طريف'
+  },
+  {
+    en: 'Jazan',
+    ar: 'جازان'
+  },
+  {
+    en: 'Sabia',
+    ar: 'صبيا'
+  },
+  {
+    en: 'Abu Areesh',
+    ar: 'أبو عريش'
+  },
+  {
+    en: 'Samta',
+    ar: 'صامطة'
+  },
+  {
+    en: 'Bish',
+    ar: 'بيش'
+  },
+  {
+    en: 'Baha',
+    ar: 'الباحة'
+  },
+  {
+    en: 'Baljurashi',
+    ar: 'بلجرشي'
+  },
+  {
+    en: 'AlMandag',
+    ar: 'المندق'
+  },
+  {
+    en: 'Al Mikhwah',
+    ar: 'المخواة'
+  },
+  {
+    en: 'Galwah',
+    ar: 'قلوة'
+  },
+  {
+    en: 'Skaka',
+    ar: 'سكاكا'
+  },
+  {
+    en: 'Al Qurayat',
+    ar: 'القريات'
+  },
+  {
+    en: 'Dawmat Aljandal',
+    ar: 'دومة الجندل'
+  }
+];
